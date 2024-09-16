@@ -1,8 +1,12 @@
 # Administrator-Linux.-Professional
 https://otus.ru/learning/312851/
-Описаны Домашние задания для выполнения курса.
+
+
+
 #ДЗ обновсить ядро в базовой системе
+
 apt-cache search linux-generic
+
 apt install linux-image-6.8.0-41-generic
 
 
